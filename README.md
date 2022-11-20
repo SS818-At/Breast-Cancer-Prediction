@@ -20,7 +20,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The objective of this work is to evaluate three algorithms: CNN, SVM and RF for the prediction of breast cancer. The dataset used BreaKHis was created by the Federal University of Paraná in collaboration with the Prevenção & Diagnos Laboratory in Parana, Brazil.
+The objective of this work is to evaluate SVM for the prediction of breast cancer. The dataset used BreaKHis was created by the Federal University of Paraná in collaboration with the Prevenção & Diagnos Laboratory in Parana, Brazil.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
